@@ -1,5 +1,5 @@
 # Credit-card-fraud-detection-using-Machine-learning-algorithms
-In this article we will detect credit card fraud on kaggle data set using 
+In this article we will detect credit card fraud 
 
 1 Logistic Regression 
 2 Linear Discriminant Analysis 
